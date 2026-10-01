@@ -1,41 +1,36 @@
-CodeSquad Class 2026-2027: Test Repository
-This is a public test repository created for the CodeSquad 2026-2027 cohort. It serves as an initial setup practice to demonstrate familiarity with Git, GitHub version control, and basic front-end web development structures.
+CodeSquad Class 2026-2027: GitHub Demo
+Welcome to my CodeSquad GitHub practice project!
 
-Features Included
-Public Visibility: Fully accessible for coach review and collaboration.
+This repository was created as part of the CodeSquad 2026-2027 cohort. The goal of this project is to practice using Git and GitHub while building a simple web page with HTML and CSS.
 
-Semantic HTML: Core structure established in index.html.
+What I Practiced
+Creating and managing a public GitHub repository
 
-External Styling: Global layout, typography, and element styles managed through style.css.
+Using semantic HTML in index.html
 
-Clean Commit History: Meaningful commit messages and descriptions used during development.
+Using an external style.css file to style the webpage
 
-Project Structure
-CodeSquad-GitHub-Demo/
-├── index.html
-├── style.css
-└── README.md
+Making clear and meaningful Git commits
 
-How to View This Project
-Clone this repository to your local machine.
+Organizing files in a simple web project
 
-Open index.html in any modern web browser.
+Preparing the project for GitHub Pages
 
-Optionally view the live deployment through GitHub Pages once it has been activated.
+Project Files
+The project includes:
 
-Learning Goals
-This project provides practice with:
+index.html — the main webpage
 
-Git and GitHub
+style.css — the styles for the webpage
 
-Repository creation and management
+README.md — information about the project
 
-HTML structure
+How to View It
+To view the project, you can clone the repository to your computer and open index.html in a web browser.
 
-CSS styling
+If GitHub Pages is enabled, you can also view the website online through the published GitHub Pages link.
 
-Version control
+What I Learned
+This project gave me practice with the basic Git and GitHub workflow, including creating a repository, organizing files, making commits, and working with a simple HTML and CSS website.
 
-GitHub Pages
-
-Meaningful commit messages
+This is a starting project, and I plan to build on these skills as I continue learning with CodeSquad.
